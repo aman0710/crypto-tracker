@@ -1,3 +1,10 @@
+# About My Project
+This website shows you the list of top 100 cryptocurrencies along with their important data. This website uses the API of Coingecko website and the frontend is created using ReactJS and CSS. It also contains a dynamic Search Bar. This project was created within a day.
+
+## Link to my project
+https://crypto-tracker0710.herokuapp.com/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
